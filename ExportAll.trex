@@ -8,7 +8,7 @@
     <min-api-version>0.8</min-api-version>
     <source-location>
       <!-- <url>https://exportallextension.theinformationlab.io/exportall.html</url> -->
-      <url>http://localhost/extensions-api/ExportAll/exportall.html</url>
+      <url>https://github.com/BV-Aodren/tbl_Ext/blob/master/exportall.html</url>
     </source-location>
     <icon>iVBORw0KGgoAAAANSUhEUgAAAMAAAADAAgMAAAAvsoSUAAAACVBMVEUAAAAAAAAAAACDY+nAAAAAA3RSTlMA/4CE6rqMAAAAoUlEQVR4Ae3PoRUCMQDAUN65DnIj9R6SUViCfcFGpXXwSHzEv1VV/UbzU0NDQ8NqDQ0NDQ0NDQ0NDQ2viS4dTg53HQaHhw4Hh+cmggRHkOAIEhxBgiNIcAQJjiDBESQ4ggRHkOAIEHYQJDiCBEeQ4AgSHEGCI0hwBAirCBIcQYIjSHAECd4AYQ1BgiNI8E4SvEGCd2wQqmpKDQ3/NFRVfUlvNddxSLdUkP4AAAAASUVORK5CYII=</icon>
     <context-menu>
